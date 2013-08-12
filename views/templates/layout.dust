@@ -10,9 +10,12 @@
 		{+stylesheets/}
 	</head>
 	<body>
-		<header>
-		</header>
-		{+content/}
+		<aside>
+			histio
+		</aside>
+		<div class="container">
+			{+content/}
+		</div>
 	</body>
 	{+scripts/}
 </html>

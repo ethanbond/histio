@@ -1,0 +1,35 @@
+{>"templates/layout"/}
+
+{<content}
+<div class="stream">
+	<div class="header">
+		<i></i><h6>PERSONAL</h6>
+	</div>
+	<ul class="eventList">
+		<li class="event">
+			<div class="eventUser eventUser--left">
+				<img src="http://placehold.it/32x32" alt="">
+			</div>
+			<div class="eventContent">
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, assumenda, doloremque, rem laudantium ullam ex suscipit recusandae enim impedit vel facilis porro quibusdam pariatur maxime ipsam ratione hic quisquam doloribus?
+				</p>
+			</div>
+		</li>
+		<li class="event">
+			<div class="eventUser eventUser--right">
+				<img src="http://placehold.it/32x32" alt="">
+			</div>
+			<div class="eventContent eventContent--left">
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, assumenda, doloremque, rem laudantium ullam ex suscipit recusandae enim impedit vel facilis porro quibusdam pariatur maxime ipsam ratione hic quisquam doloribus?
+				</p>
+			</div>
+		</li>
+	</ul>
+</div>
+
+
+
+
+{/content}
